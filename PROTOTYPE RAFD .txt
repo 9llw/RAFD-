@@ -1,0 +1,914 @@
+RAFD
+
+Complete Website Prototype Specification
+
+An Intelligent Agricultural Decision-Support Platform Powered by NASA Data
+
+⸻
+
+1. Project Overview
+
+Project Background and Challenge
+
+Farmers around the world face increasing agricultural pressures caused by shifting temperatures, changing rainfall patterns, water shortages, extreme weather, and declining soil health.
+
+These challenges make it difficult for farmers to choose suitable crop rotation strategies that protect soil health, conserve water, and strengthen the long-term resilience of their farms.
+
+RAFD addresses this challenge by developing an intelligent agricultural decision-support platform that helps farmers understand their local agricultural conditions and explore suitable crop rotation strategies using reliable environmental data and farm-specific information.
+
+Project Idea
+
+RAFD is an intelligent agricultural decision-support platform designed for Saudi Arabia.
+
+It combines NASA Earth observations, local soil information, crop characteristics, and farmer-provided information and priorities to help farmers:
+
+	•	Understand environmental and agricultural conditions affecting their farms.
+	•	Identify potential challenges related to drought, humidity, soil, climate, and water.
+	•	Evaluate crop suitability under changing environmental conditions.
+	•	Explore and compare crop rotation strategies.
+	•	Identify strategies that support soil health, improve water-use efficiency, and strengthen agricultural resilience.
+
+Main Problem
+
+Farmers face changing environmental conditions and agricultural pressures that make it difficult to decide which crops to grow and how to organize crop rotations while protecting soil health and managing limited water resources.
+
+RAFD Solution
+
+RAFD transforms NASA Earth observation data and local agricultural information into practical decision support.
+
+The platform analyzes available environmental conditions, soil information, crop requirements, and farmer priorities to help users explore and compare crop rotation strategies that may support:
+
+	•	Better soil health management.
+	•	More efficient water use.
+	•	Improved crop suitability.
+	•	Adaptation to changing climate conditions.
+	•	Long-term agricultural resilience.
+
+The platform does not automatically guarantee improved soil health or crop productivity. It provides data-supported insights and strategies that farmers can evaluate before making agricultural decisions.
+
+Project Data Inputs
+
+The system combines:
+
+	•	Available NASA Earth observation and climate data.
+	•	Official Saudi agricultural datasets.
+	•	Local soil information, when available.
+	•	Crop characteristics and agricultural requirements.
+	•	User-provided farm information and priorities.
+
+Project Tagline
+
+Smart Agriculture. Smarter Decisions.
+
+Core Message
+
+RAFD does not simply show farmers agricultural problems. It helps them understand the conditions affecting their farms and explore practical crop and crop rotation strategies based on available data.
+
+Main Project Objective
+
+Develop a feasible decision-support tool that uses NASA Earth observations, local soil information, crop characteristics, and farmer priorities to help farmers explore crop rotation strategies that could support soil health, conserve water, and strengthen agricultural resilience under changing environmental conditions.
+
+⸻
+
+2. Visual Identity and Design System
+
+Approved Color Palette
+
+Use the following colors as the primary visual identity:
+
+	•	Forest Green: Main headings, navigation bar, primary buttons, and brand elements.
+	•	Leaf Green: Secondary buttons, positive indicators, and interactive elements.
+	•	Earth Brown: Soil-related elements, agricultural sections, and environmental indicators.
+	•	Sand Beige: Cards, secondary sections, and warm backgrounds.
+	•	Warm Cream: Main website background.
+	•	Soft Sage Green: Form backgrounds, secondary cards, and information panels.
+	•	White: Cards, clean spaces, and content areas.
+	•	Dark Gray: Main text and supporting information.
+
+Use orange, red, and yellow only for warning and risk indicators.
+
+Design Direction
+
+	•	Modern and professional interface.
+	•	Clean and organized layout.
+	•	Scientific and technology-driven agricultural identity.
+	•	Soft rounded cards.
+	•	Subtle shadows.
+	•	Comfortable spacing.
+	•	Clear data visualizations.
+	•	Consistent icons.
+	•	Fully responsive design for desktop and mobile.
+	•	Full Arabic right-to-left support.
+	•	Language switcher for Arabic and English.
+
+Design Restrictions
+
+	•	Do not use photographs or images in the prototype.
+	•	Avoid crowded backgrounds.
+	•	Avoid excessive bright colors.
+	•	Do not make the interface look like an online store.
+	•	Do not place all information on a single page.
+	•	Never present fictional values as real scientific data.
+
+Use icons, maps, charts, and visual UI elements without photographic images.
+
+⸻
+
+3. Main Website Structure
+
+Create the following pages:
+
+	•	Home Page.
+	•	User Mode Selection.
+	•	Saudi Agricultural Regions.
+	•	Public Dashboard.
+	•	Farmer Dashboard.
+	•	Farm Setup.
+	•	Climate and NASA Data.
+	•	Agricultural Problem Analysis.
+	•	Farm Action Center.
+	•	Crop Intelligence.
+	•	Crop Rotation Planner.
+	•	Solar Aqua Simulator.
+	•	Reports and Outputs.
+	•	Data Sources and Methodology.
+
+All pages must be connected through a clear navigation system.
+
+⸻
+
+4. Home Page
+
+Objective
+
+Introduce the platform and direct users to the appropriate experience.
+
+Layout
+
+Top navigation:
+
+	•	RAFD text logo.
+	•	Main navigation links.
+	•	Language switcher.
+	•	Explore Regions button.
+	•	Get Started button.
+
+Hero section:
+
+	•	Main headline: Smart Agriculture Starts with Understanding the Land.
+	•	Short project description.
+	•	Two main buttons:
+	•	Enter as a Farmer.
+	•	Explore for Everyone.
+
+Below the hero section, display four feature cards:
+
+	•	Climate Monitoring.
+	•	Agricultural Problem Analysis.
+	•	Crop Suitability.
+	•	Crop Rotation Planning.
+
+Add a section titled:
+
+Why RAFD?
+
+Include:
+
+	•	NASA data integration.
+	•	Official Saudi data sources.
+	•	Regional agricultural analysis.
+	•	Turning alerts into practical actions.
+
+Footer:
+
+	•	Supported regions.
+	•	Data sources.
+	•	About the project.
+	•	Data and usage information.
+
+⸻
+
+5. User Mode Selection
+
+The website must be accessible without account creation or login.
+
+Display two main cards:
+
+Option 1: Farmer Mode
+
+Description:
+
+A practical workspace that allows farmers to enter their farm information and receive agricultural analysis and recommendations.
+
+Features:
+
+	•	Enter farm location.
+	•	Select agricultural region.
+	•	Enter soil type.
+	•	Enter soil moisture level if known.
+	•	Enter water source and available water quantity.
+	•	Enter current and previous crops.
+	•	Analyze agricultural risks.
+	•	View suggested solutions.
+	•	Compare crops.
+	•	Generate crop rotation plans.
+
+Option 2: Public Mode
+
+Description:
+
+A public exploration experience for understanding Saudi agricultural regions, climate data, challenges, and solutions.
+
+Features:
+
+	•	Explore the four regions.
+	•	Compare climate conditions.
+	•	Explore agricultural crops.
+	•	Understand agricultural challenges.
+	•	View practical solutions.
+	•	Explore NASA data.
+	•	Learn about the project’s objectives and impact.
+
+⸻
+
+6. Saudi Agricultural Regions
+
+Include four main regions:
+
+	•	Al Jouf.
+	•	Al Qassim.
+	•	Jazan.
+	•	Asir.
+
+Create a dedicated page for each region using a consistent layout.
+
+Each regional page must include:
+
+	•	Region name.
+	•	Geographic location.
+	•	Climate overview.
+	•	Agricultural characteristics.
+	•	Known regional crops.
+	•	Main agricultural challenges.
+	•	Available NASA data.
+	•	Available official Saudi data.
+	•	Suggested agricultural solutions.
+	•	Data availability status.
+
+Al Jouf
+
+Focus on:
+
+	•	Northern dry conditions.
+	•	High temperatures during certain periods.
+	•	Water limitations.
+	•	Crop water requirements.
+	•	Crops such as olives and wheat when supported by reliable agricultural data.
+
+Al Qassim
+
+Focus on:
+
+	•	Dry inland climate.
+	•	Seasonal temperature variations.
+	•	Water and irrigation management.
+	•	Agricultural soil characteristics.
+	•	Crops such as dates and wheat when supported by reliable data.
+
+Jazan
+
+Focus on:
+
+	•	Hot environmental conditions.
+	•	Differences between coastal areas and highlands.
+	•	Humidity and rainfall.
+	•	Water and soil management.
+	•	Locally suitable crops based on reliable sources.
+
+Asir
+
+Focus on:
+
+	•	Highland agricultural environments.
+	•	Temperature differences related to elevation.
+	•	Rainfall and terrain.
+	•	Soil erosion risks where applicable.
+	•	Agricultural crop diversity.
+
+Important:
+
+Do not assume that every location within a region has identical conditions. Explain that the selected data point or geographic area represents a specific location or area, not necessarily the entire region.
+
+⸻
+
+7. Data Sources
+
+Use only the following sources in the core prototype.
+
+NASA Data
+
+NASA POWER:
+
+	•	Air temperature.
+	•	Precipitation.
+	•	Solar radiation.
+	•	Available climate variables.
+	•	Climate comparisons between regions.
+
+NASA GPM:
+
+	•	Precipitation observations when needed.
+	•	Rainfall comparisons over time.
+	•	Support for rainfall-deficit analysis.
+
+NASA SMAP:
+
+	•	Soil moisture information at the spatial scale supported by the product.
+	•	Never present it as a direct measurement of a small farm field.
+
+NASA Earthdata:
+
+	•	NASA data access portal.
+	•	Not an independent sensor or measurement product.
+
+Official Saudi Data Sources
+
+	•	Ministry of Environment, Water and Agriculture: Agricultural statistics, crop information, and water-related information.
+	•	General Authority for Statistics: Relevant agricultural and geographic statistics.
+	•	National Center for Meteorology: Climate information and meteorological observations.
+	•	National Center for Vegetation Cover Development and Combating Desertification: Vegetation, desertification, and afforestation information.
+
+Data Display Requirements
+
+Every displayed data item must include:
+
+	•	Variable name.
+	•	Value.
+	•	Unit.
+	•	Geographic location.
+	•	Time period.
+	•	Data source.
+	•	Latest available update date.
+
+Never present fictional data as real data.
+
+If data cannot be retrieved, clearly display a data-unavailable message instead of inventing a value.
+
+⸻
+
+8. Public Dashboard
+
+Objective
+
+Provide visitors with an overview of agricultural and climate conditions across the four regions.
+
+Main Components
+
+	•	Interactive Saudi Arabia map.
+	•	Four regional cards.
+	•	Temperature indicator.
+	•	Rainfall indicator.
+	•	Solar radiation indicator.
+	•	Regional climate comparison.
+	•	Monthly trend chart.
+	•	Main agricultural risks.
+	•	Suggested agricultural solutions.
+
+Charts
+
+Use:
+
+	•	Line chart for temperature.
+	•	Bar chart for precipitation.
+	•	Regional comparison chart.
+	•	Compact indicator cards.
+
+Every chart must display its unit, time period, and data source.
+
+⸻
+
+9. Farmer Dashboard
+
+Objective
+
+Provide a practical interface for analyzing an individual farm.
+
+Top section:
+
+	•	Project name.
+	•	Selected region.
+	•	Edit Farm Data button.
+	•	Start New Analysis button.
+
+Indicator Cards
+
+	•	Temperature.
+	•	Rainfall.
+	•	Water availability.
+	•	Soil type.
+	•	Crop status.
+	•	Agricultural risks.
+
+Do not display indicators when the required data is unavailable.
+
+Farm Summary
+
+Display:
+
+	•	Location.
+	•	Farm area.
+	•	Soil type.
+	•	Water source.
+	•	Current crops.
+	•	Previous crops.
+	•	Missing information.
+
+⸻
+
+10. Farm Setup
+
+Allow users to enter farm information without creating an account.
+
+Input Fields
+
+	•	Region.
+	•	City or location.
+	•	Farm coordinates or map location.
+	•	Farm area.
+	•	Soil type:
+	•	Sandy.
+	•	Clay.
+	•	Loamy.
+	•	Mixed.
+	•	Unknown.
+	•	Soil moisture level:
+	•	Low.
+	•	Medium.
+	•	High.
+	•	Unknown.
+	•	Water source:
+	•	Groundwater.
+	•	Surface water.
+	•	Desalinated water.
+	•	Treated wastewater.
+	•	Other.
+	•	Available water quantity, if known.
+	•	Current crop.
+	•	Previous crops.
+	•	Irrigation method:
+	•	Drip.
+	•	Sprinkler.
+	•	Flood.
+	•	Other.
+	•	Crop growth stage.
+
+Allow users to skip unknown fields.
+
+At the end of the form, display:
+
+Analyze My Farm
+
+⸻
+
+11. Agricultural Problem Analysis
+
+The platform must analyze five main agricultural challenges:
+
+	•	Drought.
+	•	Humidity and Soil Moisture.
+	•	Soil.
+	•	Climate.
+	•	Water.
+
+For every problem, use the following structure:
+
+	•	Problem description.
+	•	Related indicators.
+	•	Data used.
+	•	Possible cause.
+	•	Potential agricultural impact.
+	•	Risk level.
+	•	Suggested solutions.
+	•	Recommended next action.
+
+Drought
+
+Indicators:
+
+	•	Rainfall below a selected reference period.
+	•	High temperatures.
+	•	Persistent dry periods.
+
+Solutions:
+
+	•	Review the irrigation schedule.
+	•	Consider lower-water-demand crops where suitable.
+	•	Improve irrigation efficiency.
+	•	Use suitable soil mulching practices.
+	•	Review planting timing.
+
+Humidity and Soil Moisture
+
+Clearly distinguish between atmospheric humidity and soil moisture.
+
+Possible conditions:
+
+	•	High atmospheric humidity.
+	•	Low soil moisture.
+	•	Excessive soil moisture.
+	•	Rapid moisture fluctuations.
+
+Solutions:
+
+	•	Adjust irrigation timing based on available data.
+	•	Improve drainage when waterlogging is confirmed.
+	•	Monitor ventilation and plant density.
+	•	Avoid excessive irrigation.
+
+Never infer soil moisture directly from atmospheric humidity.
+
+Soil
+
+Information:
+
+	•	User-provided soil type.
+	•	Laboratory soil results, if available.
+	•	Available official soil information.
+
+Solutions:
+
+	•	Conduct soil testing when information is missing.
+	•	Add organic matter based on test results.
+	•	Improve drainage when needed.
+	•	Apply suitable crop rotation.
+	•	Reduce soil erosion.
+
+Do not claim to know soil salinity or nutrient levels without supporting data.
+
+Climate
+
+Indicators:
+
+	•	Temperature.
+	•	Precipitation.
+	•	Solar radiation.
+	•	Seasonal changes.
+
+Solutions:
+
+	•	Adjust planting timing.
+	•	Select more suitable crops.
+	•	Use crop protection methods when necessary.
+	•	Review irrigation schedules.
+
+Water
+
+Information:
+
+	•	Water source.
+	•	Available water quantity.
+	•	Estimated crop water requirements.
+	•	Irrigation method.
+
+Solutions:
+
+	•	Improve irrigation efficiency.
+	•	Schedule irrigation.
+	•	Compare crops by water requirements.
+	•	Reduce water losses.
+	•	Consider alternative crops when water is limited.
+
+⸻
+
+12. Farm Action Center
+
+This is one of the platform’s most important features.
+
+The system must not simply send an alert about high temperatures or low rainfall.
+
+Every alert must provide a practical solution.
+
+Alert Card Structure
+
+Each alert must include:
+
+	•	Alert title.
+	•	Risk level.
+	•	Reason for the alert.
+	•	Supporting data.
+	•	Potential impact.
+	•	Suggested solution.
+	•	Practical implementation steps.
+	•	What the farmer should monitor next.
+
+Example: High Temperature Alert
+
+Alert:
+
+High temperatures.
+
+Reason:
+
+Observed temperatures are above the selected crop reference threshold for the current growth stage.
+
+Potential impact:
+
+Increased heat stress and potentially higher water demand.
+
+Suggested actions:
+
+	•	Review the irrigation schedule.
+	•	Consider irrigation during cooler periods when suitable.
+	•	Monitor soil moisture using field measurements.
+	•	Consider appropriate soil mulching.
+	•	Evaluate crop suitability under current climate conditions.
+
+Next action:
+
+Open irrigation settings and enter available water quantity.
+
+Alerts must be based on actual data or clearly documented rules. Display confidence level and missing information.
+
+⸻
+
+13. Crop Intelligence
+
+Objective
+
+Help users identify crops that are more suitable for their agricultural conditions.
+
+Features
+
+	•	Explore crop database.
+	•	View crop requirements.
+	•	Compare crops.
+	•	Evaluate crop suitability by region.
+	•	Display strengths and limitations.
+	•	Identify missing information.
+
+Crop Card
+
+Each crop card must include:
+
+	•	Crop name.
+	•	Suitable season.
+	•	Temperature requirements.
+	•	Water requirements.
+	•	Suitable soil conditions.
+	•	Growth duration, when available.
+	•	Climate sensitivity.
+	•	Information source.
+
+Suitability Assessment
+
+Display one of the following:
+
+	•	High suitability.
+	•	Medium suitability.
+	•	Low suitability.
+	•	Insufficient data.
+
+Explain the reasons behind each result. Do not present suitability as a guarantee of crop yield.
+
+⸻
+
+14. Crop Rotation Planner
+
+Objective
+
+Help farmers explore and compare crop rotation strategies based on NASA Earth observations, available local soil information, crop characteristics, and farmer priorities.
+
+The planner must support the project’s main challenge by helping farmers consider crop rotations that could support soil health, conserve water, and adapt to changing environmental conditions.
+
+Display Three Strategies
+
+Strategy 1:
+
+A plan focused on climate suitability.
+
+Strategy 2:
+
+A plan focused on water-use efficiency.
+
+Strategy 3:
+
+A plan focused on crop diversity and soil management.
+
+Each Strategy Must Display
+
+	•	Crop sequence.
+	•	Crop duration.
+	•	Reason for the sequence.
+	•	Relative water requirements.
+	•	Expected soil-management benefits.
+	•	Advantages.
+	•	Limitations.
+	•	Additional data required before adoption.
+
+Add a comparison table to help users evaluate the three plans.
+
+Use available farm information, environmental conditions, crop characteristics, and farmer priorities where possible.
+
+Do not claim that a rotation plan automatically improves soil. Recommendations must be linked to crop characteristics and available information.
+
+⸻
+
+15. Solar Aqua Simulator
+
+Objective
+
+Introduce an innovative concept connecting solar energy with water solutions for dry agricultural environments.
+
+Concept
+
+A conceptual simulation of a system using:
+
+	•	Solar energy.
+	•	Atmospheric water harvesting.
+	•	Condensation.
+	•	Water collection.
+	•	Water storage.
+	•	Agricultural irrigation.
+
+Simulation Interface
+
+Display the system as a visual sequence:
+
+	•	Capture solar energy.
+	•	Operate the atmospheric water harvesting system.
+	•	Condense water vapor.
+	•	Collect water.
+	•	Store water.
+	•	Use water for irrigation.
+
+Allow users to adjust:
+
+	•	Solar radiation level.
+	•	Temperature.
+	•	Relative humidity.
+	•	Operating duration.
+
+Display estimated or illustrative output only if a documented engineering equation and suitable inputs are available.
+
+If reliable performance equations or data are unavailable, keep the simulation conceptual and do not generate quantitative output.
+
+Display a clear note:
+
+This is a conceptual demonstration, not a deployed device or a field-validated system.
+
+⸻
+
+16. Reports
+
+Allow users to generate a report containing:
+
+	•	Location information.
+	•	Climate data.
+	•	User-provided farm information.
+	•	Agricultural challenges.
+	•	Risk levels.
+	•	Suggested solutions.
+	•	Crop suitability results.
+	•	Crop rotation strategies.
+	•	Data sources.
+	•	Scientific limitations.
+
+Add a button:
+
+Download PDF Report
+
+⸻
+
+17. Data Sources and Methodology Page
+
+Display all official data sources used by the platform.
+
+For each source, include:
+
+	•	Organization name.
+	•	Dataset name.
+	•	Data type.
+	•	Time period.
+	•	Geographic coverage.
+	•	Source link.
+	•	How the data is used in the platform.
+
+Clearly separate:
+
+	•	NASA data.
+	•	Official Saudi data.
+	•	User-provided information.
+	•	System-calculated results.
+
+⸻
+
+18. Required Interactions
+
+The website must be interactive, not a static design.
+
+Required interactions:
+
+	•	Navigate between pages.
+	•	Switch languages.
+	•	Select Farmer Mode or Public Mode.
+	•	Select a region.
+	•	Enter farm information.
+	•	Start analysis.
+	•	Open alert details.
+	•	View suggested solutions.
+	•	Compare crops.
+	•	Generate crop rotation plans.
+	•	Adjust simulation inputs.
+	•	Download reports.
+	•	Reset farm information.
+
+No feature should require account registration.
+
+⸻
+
+19. MVP Scope
+
+The first version must include:
+
+	•	Home Page.
+	•	Farmer Mode and Public Mode.
+	•	Four regional pages.
+	•	NASA POWER data.
+	•	Available official Saudi agricultural data.
+	•	Farm information input.
+	•	Five agricultural problem categories.
+	•	Farm Action Center and alerts.
+	•	Crop suitability assessment.
+	•	Three crop rotation strategies.
+	•	Conceptual Solar Aqua simulator.
+	•	Reports.
+	•	Data sources page.
+
+Do not implement in the first version:
+
+	•	Actual irrigation control.
+	•	Sensor integration.
+	•	Crop yield prediction.
+	•	Automated plant disease diagnosis.
+	•	Soil chemistry analysis without laboratory results.
+	•	A fully integrated digital twin.
+	•	User accounts and authentication.
+
+These features belong in the future development roadmap.
+
+⸻
+
+20. Technical Requirements
+
+	•	React frontend.
+	•	Tailwind CSS styling.
+	•	Interactive charts.
+	•	Interactive map when suitable data is available.
+	•	NASA POWER API integration.
+	•	Python data processing when required.
+	•	Data caching to improve performance.
+	•	API key protection on the server.
+	•	Responsive design.
+	•	No fictional values in final data visualizations.
+
+If an API cannot be connected during the demonstration, use clearly labeled sample data. Never mix sample data with real observations without identifying the difference.
+
+⸻
+
+21. Website Success Criteria
+
+The prototype is successful when users can:
+
+	•	Enter the website without registration.
+	•	Select Farmer Mode or Public Mode.
+	•	Explore the four regions.
+	•	View documented climate data.
+	•	Enter farm information.
+	•	Understand agricultural challenges.
+	•	Receive practical solutions linked to each challenge.
+	•	Compare crops.
+	•	View three crop rotation strategies.
+	•	Download a report with data sources.
+
+⸻
+
+Final Deliverable
+
+Build a complete interactive website called RAFD.
+
+The website must look and behave like a real agricultural technology product, not a simple landing page or presentation.
+
+Prioritize:
+
+	•	Clarity.
+	•	Scientific validity.
+	•	Ease of use.
+	•	Feasibility.
+	•	Turning NASA Earth observations and local agricultural information into practical crop rotation decisions.
+	•	Supporting soil health, water conservation, and agricultural resilience.
+
+Do not use photographic images in the prototype. Use the approved color palette, icons, maps, charts, and interactive cards only.
+
+Final Principle
+
+RAFD must help farmers understand the environmental conditions affecting their farms and use available NASA Earth observations, local soil information, crop characteristics, and their own priorities to explore crop rotation strategies that could protect soil health, conserve water, and strengthen long-term agricultural resilience.
